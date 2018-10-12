@@ -3,8 +3,7 @@
 Deze proefopdracht is gekozen uit een aantal proefopdrachten. Bij deze opdracht moet je een random dungeon generator maken waarbij elk
 level anders word gegenereerd.
 
-De gegeven tips zijn: <br/>
-Je kan gebruik maken van 'programmeer graphics' voor de graphische vormgeving. <br/>
+
 
 
 ## Kenmerken
